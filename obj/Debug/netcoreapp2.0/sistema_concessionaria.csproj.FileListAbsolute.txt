@@ -8,3 +8,13 @@ C:\Users\Fabio Freller\Documents\Programar\sistema_concessionaria\obj\Debug\netc
 C:\Users\Fabio Freller\Documents\Programar\sistema_concessionaria\obj\Debug\netcoreapp2.0\sistema_concessionaria.AssemblyInfo.cs
 C:\Users\Fabio Freller\Documents\Programar\sistema_concessionaria\obj\Debug\netcoreapp2.0\sistema_concessionaria.dll
 C:\Users\Fabio Freller\Documents\Programar\sistema_concessionaria\obj\Debug\netcoreapp2.0\sistema_concessionaria.pdb
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\obj\Debug\netcoreapp2.0\sistema_concessionaria.csproj.CoreCompileInputs.cache
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\obj\Debug\netcoreapp2.0\sistema_concessionaria.AssemblyInfoInputs.cache
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\obj\Debug\netcoreapp2.0\sistema_concessionaria.AssemblyInfo.cs
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\obj\Debug\netcoreapp2.0\sistema_concessionaria.dll
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\obj\Debug\netcoreapp2.0\sistema_concessionaria.pdb
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\bin\Debug\netcoreapp2.0\sistema_concessionaria.deps.json
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\bin\Debug\netcoreapp2.0\sistema_concessionaria.runtimeconfig.json
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\bin\Debug\netcoreapp2.0\sistema_concessionaria.runtimeconfig.dev.json
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\bin\Debug\netcoreapp2.0\sistema_concessionaria.dll
+C:\Users\40809588897\Desktop\Programar\Semana 5\sistema_concessionaria\bin\Debug\netcoreapp2.0\sistema_concessionaria.pdb

@@ -182,7 +182,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NetOffice.Core/1.7.3": {
+      "NetOffice.Core/1.7.4-pre-jun-28-2015": {
         "type": "package",
         "compile": {
           "lib/net45/NetOffice.dll": {},
@@ -195,10 +195,10 @@
           "lib/net45/VBIDEApi.dll": {}
         }
       },
-      "NetOffice.Excel/1.7.3": {
+      "NetOffice.Excel/1.7.4-pre-jun-28-2015": {
         "type": "package",
         "dependencies": {
-          "NetOffice.Core": "1.7.3"
+          "NetOffice.Core": "1.7.4-pre-jun-28-2015"
         },
         "compile": {
           "lib/net45/ExcelApi.dll": {}
@@ -554,29 +554,11 @@
         "version.txt"
       ]
     },
-    "NetOffice.Core/1.7.3": {
-      "sha512": "QK41Iq8O3jhtGPfHBTaZW5MPMOfZ79CIDpxakfjxsG9CyK8L3xIr566Z2caHJ57yR51qf1HLfJw3OVprGykWfQ==",
+    "NetOffice.Core/1.7.4-pre-jun-28-2015": {
+      "sha512": "9RsJK36gMoFvRwDzTaNbNmpRyZfOFNyOfjrh1BZsNfqsW9+Z1vPgATD4PAuzd1XyXeFqDaey5LLqIAj474GxHQ==",
       "type": "package",
-      "path": "netoffice.core/1.7.3",
+      "path": "netoffice.core/1.7.4-pre-jun-28-2015",
       "files": [
-        "lib/net20/NetOffice.dll",
-        "lib/net20/NetOffice.xml",
-        "lib/net20/OfficeApi.dll",
-        "lib/net20/OfficeApi.xml",
-        "lib/net20/VBIDEApi.dll",
-        "lib/net20/VBIDEApi.xml",
-        "lib/net30/NetOffice.dll",
-        "lib/net30/NetOffice.xml",
-        "lib/net30/OfficeApi.dll",
-        "lib/net30/OfficeApi.xml",
-        "lib/net30/VBIDEApi.dll",
-        "lib/net30/VBIDEApi.xml",
-        "lib/net35/NetOffice.dll",
-        "lib/net35/NetOffice.xml",
-        "lib/net35/OfficeApi.dll",
-        "lib/net35/OfficeApi.xml",
-        "lib/net35/VBIDEApi.dll",
-        "lib/net35/VBIDEApi.xml",
         "lib/net40/NetOffice.dll",
         "lib/net40/NetOffice.xml",
         "lib/net40/OfficeApi.dll",
@@ -589,27 +571,21 @@
         "lib/net45/OfficeApi.xml",
         "lib/net45/VBIDEApi.dll",
         "lib/net45/VBIDEApi.xml",
-        "netoffice.core.1.7.3.nupkg.sha512",
+        "netoffice.core.1.7.4-pre-jun-28-2015.nupkg.sha512",
         "netoffice.core.nuspec",
         "tools/install.ps1"
       ]
     },
-    "NetOffice.Excel/1.7.3": {
-      "sha512": "sUQw3FG0hXMnzkHmddw3/cyFPSpV0XbknaCYY6A/unFYvgeOvsIexo8Widvg6gzG9v1ZCBz1PS7+knoK7Al/Sw==",
+    "NetOffice.Excel/1.7.4-pre-jun-28-2015": {
+      "sha512": "tBl25UGJ/WJquFSEPCzvEKJ3yOUCAXoA1/c9/AbvmkHkoyP7Zns7YZcpYL/RM8F0zm50wg/SL86rplzgbigA1w==",
       "type": "package",
-      "path": "netoffice.excel/1.7.3",
+      "path": "netoffice.excel/1.7.4-pre-jun-28-2015",
       "files": [
-        "lib/net20/ExcelApi.dll",
-        "lib/net20/ExcelApi.xml",
-        "lib/net30/ExcelApi.dll",
-        "lib/net30/ExcelApi.xml",
-        "lib/net35/ExcelApi.dll",
-        "lib/net35/ExcelApi.xml",
         "lib/net40/ExcelApi.dll",
         "lib/net40/ExcelApi.xml",
         "lib/net45/ExcelApi.dll",
         "lib/net45/ExcelApi.xml",
-        "netoffice.excel.1.7.3.nupkg.sha512",
+        "netoffice.excel.1.7.4-pre-jun-28-2015.nupkg.sha512",
         "netoffice.excel.nuspec",
         "tools/install.ps1"
       ]
@@ -746,27 +722,27 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.NETCore.App >= 2.0.0",
-      "NetOffice.Excel >= 1.7.3"
+      "NetOffice.Excel >= 1.7.4-pre-jun-28-2015"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fabio Freller\\.nuget\\packages\\": {},
+    "C:\\Users\\40809588897\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Fabio Freller\\Documents\\Programar\\sistema_concessionaria\\casaconcessionaria.csproj",
-      "projectName": "casaconcessionaria",
-      "projectPath": "c:\\Users\\Fabio Freller\\Documents\\Programar\\sistema_concessionaria\\casaconcessionaria.csproj",
-      "packagesPath": "C:\\Users\\Fabio Freller\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Fabio Freller\\Documents\\Programar\\sistema_concessionaria\\obj\\",
+      "projectUniqueName": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana 5\\sistema_concessionaria\\sistema_concessionaria.csproj",
+      "projectName": "sistema_concessionaria",
+      "projectPath": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana 5\\sistema_concessionaria\\sistema_concessionaria.csproj",
+      "packagesPath": "C:\\Users\\40809588897\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\40809588897\\Desktop\\Programar\\Semana 5\\sistema_concessionaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fabio Freller\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\40809588897\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -795,7 +771,7 @@
           },
           "NetOffice.Excel": {
             "target": "Package",
-            "version": "1.7.3"
+            "version": "1.7.4-pre-jun-28-2015"
           }
         },
         "imports": [
@@ -811,7 +787,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NetOffice.Core 1.7.3' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'NetOffice.Core 1.7.4-pre-jun-28-2015' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "NetOffice.Core",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"
@@ -821,7 +797,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'NetOffice.Excel 1.7.3' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'NetOffice.Excel 1.7.4-pre-jun-28-2015' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "NetOffice.Excel",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"

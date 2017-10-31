@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/bin/Debug/netcoreapp2.0/casaconcessionaria.dll",
+            "program": "${workspaceRoot}/bin/Debug/netcoreapp2.0/sistema_concessionaria.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             "stopAtEntry": false,
