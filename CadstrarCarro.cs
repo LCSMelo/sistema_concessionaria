@@ -18,15 +18,18 @@ namespace sistema_concessionaria{
             Opcionais opcionais1 = new Opcionais();
             do{ 
                 Console.WriteLine("Ar-condicionado? (s ou n)");
-                opcionais1.arcon = Console.ReadLine();}
+                opcionais1.arcon = Console.ReadLine();
+                }
             while(opcionais1.arcon != "s" && opcionais1.arcon != "n");
             do{ 
                 Console.WriteLine("Airbag? (s ou n)");
-                opcionais1.airbag = Console.ReadLine();}
+                opcionais1.airbag = Console.ReadLine();
+                }
             while(opcionais1.airbag != "s" && opcionais1.airbag != "n");
             do{
                 Console.WriteLine("Freios ABS? (s ou n)");
-                opcionais1.abs = Console.ReadLine();}
+                opcionais1.abs = Console.ReadLine();
+                }
             while(opcionais1.abs != "s" && opcionais1.abs != "n");
             
             
@@ -43,7 +46,6 @@ namespace sistema_concessionaria{
             do
             {
                 contador += 1;
-                
 
             } while (ex.Cells[contador,1].Value != null);
             ex.Cells[contador,1].Value = modelocarro;
